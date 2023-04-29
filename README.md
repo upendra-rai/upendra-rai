@@ -10,8 +10,8 @@
 - ⚡ Fun fact **I am Funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Upendrarai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Upendrarai" height="30" width="40" /></a>
+<a href="https://twitter.com/LuckyRai27?t=wLpaKkqX-6cFe_-xyhjqiA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Upendrarai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/upendra-rai-66b8a1163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Upendrarai" height="30" width="40" /></a>
 <a href="https://instagram.com/mr._rai01?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Upendrarai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@developertouch3014/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/Upendrarai/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Upendrarai" height="30" width="40" /></a>
 </p>
