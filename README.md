@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on **Backend Web Developer(Spring Boot Rest api And Microservices)**
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **React JS**
 
 - 🌱 I’m currently learning **DSA**
 
