@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **upendrarai02@gmail.com**
 
-- 📫 Website -https://upendrarai.blogspot.com/
+- 📫 Portfolio -https://upendra-rai.github.io/Portfolio
  
 - ⚡ Fun fact **I am Funny**
 <h3 align="left">Connect with me:</h3>
